@@ -1,6 +1,7 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ * @since 2.0
  */
 
 package entidadFinanciera;
